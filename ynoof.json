@@ -10,7 +10,7 @@
   "animationDuration": ".5s",
   "animations": [
     {
-      "name": "<style onafterscriptexecute=alert(1)><script>1</script>ynoof",
+      "name": "@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><style id=x style="position:absolute;" onanimationcancel="print()"></style>ynoof",
       "animationSteps": 1,
       "animationDuration": "10s",
       "orientationRange": [361, 361],
