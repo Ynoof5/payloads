@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY Ynoof
   description: |
-    <h1>ynoof was here</h2>
+    <img src=x onerror=x>ynooof was here
   version: production
 basePath: /JSSResource/
 produces:
