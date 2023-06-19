@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY Ynoof
   description: |
-    <svg onload=x>aaaaa
+    <svg onload=x>aaaaaa
   version: production
 basePath: /JSSResource/
 produces:
